@@ -10,6 +10,7 @@ c.	Write a C program to compute following formulas •	Force  = mass of an objec
 
 d.	Write a C program to execute the expression for projectile motion. s = ut+1/2 at^2 where s: Displacement; u: initial velocity, a : acceleration t: time
 
+#
 ### Lab 2
 To Study and Demonstrate Decision Control Structures.
 
