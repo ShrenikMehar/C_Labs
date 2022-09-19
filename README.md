@@ -18,7 +18,6 @@ a.	Write a C program to check whether entered 4-digit number is even, odd or zer
 
 b.	Write a C program to determine Body Mass Index BMI of the person(BMI = kg/m2) where kg is a person’s weight in kilograms and m2 is their height in meters squared and also determine health status by checking BMI.
 
-BMI  	Health Status
->=25.0	Overweight
->=18.5 and <=24.9	Healthy 
-<18.5 	Underweight
+If BMI is >=25.0 -> Overweight
+If BMI is >=18.5 and <=24.9 -> Healthy 
+If BMI is <18.5 -> Underweight
